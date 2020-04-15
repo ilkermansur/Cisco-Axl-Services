@@ -3,6 +3,8 @@
 Cisco Call Manager's API - AXL Services using python
 AXL Services will allow you to collect/ manage/ update/ add data to call manager through API.
 
+Note: Each script is developed as standalone 
+
 Requirements :
 
 1. install zeep - "pip install zeep"
