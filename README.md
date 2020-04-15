@@ -5,6 +5,11 @@ AXL Services will allow you to collect/ manage/ update/ add data to call manager
 
 Note: Each script is developed as standalone 
 
+AXL Services:
+
+To list all axl service you can run command: python -mzeep "axlapi.wsdl"
+e.g Python -mzeep 'file://C:/Users/7313482/Desktop/Projects/Tools/axlsqltoolkit/schema/current/AXLAPI.wsdl'
+
 Requirements :
 
 1. install zeep - "pip install zeep"
