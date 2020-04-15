@@ -1,7 +1,6 @@
 # Cisco-Axl-Services
-########################################################## 
-  Cisco Call Manager's API - AXL Services using python
-##########################################################
+ 
+Cisco Call Manager's API - AXL Services using python
 AXL Services will allow you to collect/ manage/ update/ add data to call manager through API.
 
 Requirements :
